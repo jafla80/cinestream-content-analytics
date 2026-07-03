@@ -1,5 +1,7 @@
 # 🎬 CineStream Content Analytics Dashboard
 
+## Live demo https://cinestream-content-analytics-fskm8ycdnukvjorccxsgle.streamlit.app/
+https://github.com/jafla80/cinestream-content-analytics
 ##  Project Overview
 
 The CineStream Content Analytics Dashboard is an interactive web application developed using Streamlit. The dashboard analyzes the CineStream content catalog and provides insights into genres, languages, revenue, IMDb ratings, production costs, return on investment (ROI), and content quality.
@@ -130,7 +132,9 @@ streamlit run cinestream_app.py
 
 ##  Dashboard Preview
 
-(Add dashboard screenshots here after deployment.)
+
+<img width="1903" height="928" alt="Screenshot 2026-07-03 173548" src="https://github.com/user-attachments/assets/1dc0e421-eaca-491e-99f3-bec1ee9ef979" />
+
 
 ---
 
