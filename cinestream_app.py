@@ -15,9 +15,9 @@ st.set_page_config(
 
 @st.cache_data(ttl=600)
 def load_data():
-    df = pd.read_csv("Output\cleaned_cinestream.csv")
-    df["AddedDate"] = pd.to_datetime(df["AddedDate"], errors="coerce")
-    return df
+   df = pd.read_csv("Output/cleaned_cinestream.csv")
+   df["AddedDate"] = pd.to_datetime(df["AddedDate"], errors="coerce")
+   return df
 
 df = load_data()
 
